@@ -47,6 +47,9 @@ INSERT INTO Orders (order_id, customer_id, product, amount) VALUES
 
 ---
 
+---
+
+
 ## 🔍 Query Descriptions
 
 ### INNER JOIN Queries (Only Matching Records)
