@@ -27,6 +27,7 @@ This project demonstrates various SQL operations on a simple **Customers** and *
 
 ## 📦 Sample Data
 
+```sql
 -- Customers Table
 INSERT INTO Customers (customer_id, name, city) VALUES
 (1, 'Alice', 'New York'),
@@ -42,7 +43,6 @@ INSERT INTO Orders (order_id, customer_id, product, amount) VALUES
 (103, 1, 'Mouse', 25),
 (104, 5, 'Keyboard', 45),
 (105, 6, 'Monitor', 300);
-
 
 
 ---
