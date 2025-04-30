@@ -25,25 +25,6 @@ This project demonstrates various SQL operations on a simple **Customers** and *
 
 ---
 
-## 📦 Sample Data
-
-```sql
--- Customers Table
-INSERT INTO Customers (customer_id, name, city) VALUES
-(1, 'Alice', 'New York'),
-(2, 'Bob', 'Los Angeles'),
-(3, 'Charlie', 'Chicago'),
-(4, 'Diana', 'Houston'),
-(5, 'Eve', 'Miami');
-
--- Orders Table
-INSERT INTO Orders (order_id, customer_id, product, amount) VALUES
-(101, 1, 'Laptop', 1200),
-(102, 2, 'Phone', 800),
-(103, 1, 'Mouse', 25),
-(104, 5, 'Keyboard', 45),
-(105, 6, 'Monitor', 300);
-
 
 ## 🔍 Query Descriptions
 
