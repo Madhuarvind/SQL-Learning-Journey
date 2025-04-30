@@ -45,11 +45,6 @@ INSERT INTO Orders (order_id, customer_id, product, amount) VALUES
 (105, 6, 'Monitor', 300);
 
 
----
-
----
-
-
 ## 🔍 Query Descriptions
 
 ### INNER JOIN Queries (Only Matching Records)
