@@ -66,9 +66,9 @@ INSERT INTO greetings (message) VALUES ('Hello, World!');
 -- Retrieve data
 SELECT * FROM greetings;
 
---
+---
 
-### 📚 Additional Resources
+## 📚 Additional Resources 
 Setting Up SQL Environment – SparkCodeHub
 
 GeeksforGeeks SQL Setup Guide
