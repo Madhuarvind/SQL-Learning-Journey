@@ -9,4 +9,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0196-delete-duplicate-emails) |
 | [0607-sales-person](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0607-sales-person) |
+| [0610-triangle-judgement](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0610-triangle-judgement) |
 <!---LeetCode Topics End-->
