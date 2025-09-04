@@ -1,5 +1,4 @@
-# 📘 SQL Full Course – Section 1: Introduction to SQL (:00–07:38)
-
+# 📘 SQL Full Course – Section 1: Introduction to SQL 
 This section lays the foundation for understanding SQL and relational databases. It’s perfect for beginners who want to grasp the core concepts before diving into queries and data manipulation.
 
 ---
