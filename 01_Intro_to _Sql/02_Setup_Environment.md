@@ -1,5 +1,4 @@
-# ⚙️ SQL Full Course – Section 2: Setup Your Environment (22:33–34:01)
-
+# ⚙️ SQL Full Course – Section 2: Setup Your Environment 
 Before you can write powerful SQL queries, you need a proper environment to run them. This section helps you set up everything—from choosing a database system to installing tools and writing your first query.
 
 ---
