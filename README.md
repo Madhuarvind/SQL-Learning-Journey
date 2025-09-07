@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0620-not-boring-movies](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0620-not-boring-movies) |
 | [0627-swap-salary](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0627-swap-salary) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/1245-user-activity-for-the-past-30-days-i) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
