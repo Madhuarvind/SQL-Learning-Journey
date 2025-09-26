@@ -17,11 +17,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0088-merge-sorted-array) |
 | [0792-binary-search](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0088-merge-sorted-array) |
 ## Math
 |  |
 | ------- |
@@ -44,4 +46,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0792-binary-search) |
+## Sorting
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
