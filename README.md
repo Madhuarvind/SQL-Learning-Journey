@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0088-merge-sorted-array) |
 | [0792-binary-search](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0792-binary-search) |
+| [1018-largest-perimeter-triangle](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/1018-largest-perimeter-triangle) |
 ## Two Pointers
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/1013-fibonacci-number) |
+| [1018-largest-perimeter-triangle](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/1018-largest-perimeter-triangle) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,4 +52,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0088-merge-sorted-array) |
+| [1018-largest-perimeter-triangle](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/1018-largest-perimeter-triangle) |
+## Greedy
+|  |
+| ------- |
+| [1018-largest-perimeter-triangle](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/1018-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
