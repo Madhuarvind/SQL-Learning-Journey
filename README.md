@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/1013-fibonacci-number) |
 ## Memoization
@@ -57,4 +59,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1018-largest-perimeter-triangle](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/1018-largest-perimeter-triangle) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
