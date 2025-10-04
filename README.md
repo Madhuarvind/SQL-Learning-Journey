@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0088-merge-sorted-array) |
+| [0142-linked-list-cycle-ii](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 ## Math
 |  |
@@ -62,9 +63,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0142-linked-list-cycle-ii) |
 | [0234-palindrome-linked-list](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0234-palindrome-linked-list) |
+## Hash Table
+|  |
+| ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Madhuarvind/SQL-Learning-Journey/tree/master/0142-linked-list-cycle-ii) |
 <!---LeetCode Topics End-->
